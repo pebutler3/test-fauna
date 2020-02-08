@@ -82,7 +82,7 @@ function App({ collections = [], isDeployed }) {
               DEPLOYMENT dialog
             </li>
             <li>
-              Click the deployment link and wait for building to complete to
+              Click the deploymentz link and wait for building to complete to
               verify that the application lists the collections in your database
             </li>
           </ol>
